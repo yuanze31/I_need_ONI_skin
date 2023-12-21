@@ -3,7 +3,7 @@
 ** 只能实现在本地游玩时的皮肤破解效果，并不能修改科雷服务器中的数据（这不废话） **  
 ***
 ## **使用方法**  
-目前适用于 **U50-583750** 版本  
+目前适用于 **U50-587147** 版本  
 在[Releases](https://github.com/yuanze31/I_need_ONI_skin/releases)中下载Assembly-CSharp.dll，并替换位于 **.\SteamLibrary\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed** 的  **Assembly-CSharp.dll**  
 **注意**：每次更新/验证游戏完整性后需要重新替换  
 ## **破解教程**  
