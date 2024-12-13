@@ -1,0 +1,96 @@
+﻿### Windows ###
+*.bak
+*.swp
+*.tmp
+*.log
+*.user
+*.suo
+*.DS_Store
+
+### Build ###
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# if using Razor
+*.generated.cs
+
+# if using ReSharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# if using Rider
+.idea/
+
+# if using npm in the project
+node_modules/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IIS Logs
+_IISExpress/
+
+# Azure Web Apps
+.deploy/
+.vs/
+
+# Visual Studio 2019/2022
+.vscode/
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+### Other ###
+*.sln.docstates
+*.class
+*.dbmdl
+*.jfm
+*.ipr
+*.iws
+*.ilk
+*.pdb
+*.opendb
+*.log
+*.tlog
+*.vspscc
+*.vspxproj.user
+*.vspxproj
+*.vsixproj.user
+*.vsixproj
+
+# Rider settings
+.idea/
+
+# Coverage results
+*.coverage
+*.coveragexml
+_Reports/
+
+# Test Results
+TestResults/
+*.trx
+*.testlog
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# User-specific files
+*.rsuser
+*.DotSettings.user
+
+### OS ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### End ###
