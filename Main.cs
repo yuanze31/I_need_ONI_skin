@@ -5,16 +5,26 @@ namespace I_need_ONI_skin
 {
     public static class Patches
     {
+        //[HarmonyPatch(typeof(PermitItems))]
+        //[HarmonyPatch("GetOwnedCount")]
+        //public static class ChangeOwnedCount
+        //{
+        //    public static void Postfix(ref int __result)
+        //    {
+        //        if (__result == 0)
+        //        {
+        //            __result++;
+        //        }
+        //    }
+        //}
+
         [HarmonyPatch(typeof(PermitItems))]
-        [HarmonyPatch("GetOwnedCount")]
-        public static class AA__Patch
+        [HarmonyPatch("IsPermitUnlocked")]
+        public static class ChangePermitStatus
         {
-            public static void Postfix(ref int __result)
+            public static void Postfix(ref bool __result)
             {
-                if (__result == 0)
-                {
-                    __result++;
-                }
+                __result = true;                
             }
         }
     }
