@@ -2,13 +2,17 @@
 
 ## **说明**
 
-**只能实现在本地游玩时可使用全部皮肤的效果，并不能修改科雷服务器中的数据** <img src="img/FU_KLEI.png" alt="" width="60%" height="auto" style="display:block; margin:auto;"> 看起来 KELI 非常“享受”强迫玩家使用他们“精心构建”的皮肤系统，单纯出于恶心玩家的目的，而不是出于商业利益
+**只能实现在本地游玩时可使用全部皮肤的效果，并不能修改科雷服务器中的数据**
+
+<img src="img/FU_KLEI.png" alt="" width="60%" height="auto" style="display:block; margin:auto;">
+
+看起来 KELI 非常“享受”强迫玩家使用他们“精心构建”的皮肤系统，单纯出于恶心玩家的目的，而不是出于商业利益
 
 **声明**：本模组仅供学习交流，严禁用于商业用途，使用时请遵守当地法律法规，由于不正当使用产生的法律问题与本人无关
 
 ## **使用方法**
 
-1. 从[Releases](https://github.com/yuanze31/I_need_ONI_skin/releases)下载 I_need_ONI_skin.zip
+1. 从[Releases](https://github.com/yuanze31/I_need_ONI_skin/releases)下载 [I_need_ONI_skin.zip](https://github.com/yuanze31/I_need_ONI_skin/releases/download/Mod-1.2.0/I_need_ONI_skin.zip)
 2. 解压到 C:\Users\[Your Username]\Documents\Klei\OxygenNotIncluded\mods\local 文件夹下，此时文件夹结构应为
 
 ```
