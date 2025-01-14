@@ -13,7 +13,7 @@
 ## **使用方法**
 
 1. 从[Releases](https://github.com/yuanze31/I_need_ONI_skin/releases)下载 [I_need_ONI_skin.zip](https://github.com/yuanze31/I_need_ONI_skin/releases/download/Mod-1.2.0/I_need_ONI_skin.zip)
-2. 解压到 C:\Users\[Your Username]\Documents\Klei\OxygenNotIncluded\mods\local 文件夹下，此时文件夹结构应为
+2. 解压到 C:\Users\\[Your Username]\Documents\Klei\OxygenNotIncluded\mods\local 文件夹下，此时文件夹结构应为
 
 ```
 -./local
